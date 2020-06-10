@@ -230,8 +230,8 @@ body {
 .container .info img {
     position: absolute;
     width: auto;
-    height: 150px;
-    margin-top: -220px;
+    height: 100px;
+    margin-top: -200px;
     left: 15px;
 }
 
@@ -241,7 +241,7 @@ body {
     color: black;
     background: (0,0,0,0.5);
     margin-top: -200px;
-    margin-left: 230px;
+    margin-left: 140px;
     padding: 10px;
 }
 
